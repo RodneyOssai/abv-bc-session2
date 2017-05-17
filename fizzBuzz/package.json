@@ -1,0 +1,28 @@
+{
+  "name": "abv-bc-session2",
+  "version": "1.0.0",
+  "description": "FizzBuzz App",
+  "main": "fizzBuzz.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodneyOssai/abv-bc-session2.git"
+  },
+  "author": "Nduka Ossai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodneyOssai/abv-bc-session2/issues"
+  },
+  "homepage": "https://github.com/RodneyOssai/abv-bc-session2#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
+
